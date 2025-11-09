@@ -1,0 +1,10 @@
+{
+    "best_dosage_mg": {
+        "dose_A": 0.61,
+        "dose_B": 26.39,
+        "dose_C": 23.18
+    },
+    "effectiveness": 99.89,
+    "side_effects": 61.71,
+    "fitness": 38.19
+}
